@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-telegram-bot-api/telegram-bot-api"
+	tgbotapi "github.com/mirlord/telegram-bot-api/v5"
 )
 
 func TestUserStringWith(t *testing.T) {
